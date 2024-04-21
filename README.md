@@ -1,2 +1,3 @@
 # CALCULATOR
-Using html, css, and javascript
+Using html, css, and javascript.
+view: https://mansipatel-calculator.netlify.app/
